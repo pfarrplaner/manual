@@ -1,0 +1,2 @@
+# manual
+Pfarrplaner Manual
