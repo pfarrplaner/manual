@@ -19,50 +19,50 @@ Folgende Schaltflächen sind verfügbar:
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Zum Kalender](media/images/img_3.png) | Absprung auf den **[Kalender](/manual/calendar.md)**. |
-| ![Schaltfläche: Taufe anlegen](media/images/img_4.png) | [Anlegen einer **Taufe**](/manual/baptisms.create.md). **Hinweis**: Beim **Anlegen einer Taufe** über die **Konfigurierbare Startseite** ist es möglich, das **Datum** freizulassen. Auf diese Art kann eine **Taufanfrage** angelegt werden. Das **Datum** muss dann **später nachgepflegt** werden, womit aus der **Taufanfrage** eine **Taufe** wird. |
-| ![Schaltfläche: Beerdigung anlegen](media/images/img_5.png) | [Anlegen einer **Beerdigung**](/manual/funerals.create.md). |
-| ![Schaltfläche: Trauung anlegen](media/images/img_6.png) | [Anlegen einer **Trauung**](/manual/weddings.create.md) |
+| ![Schaltfläche: Zum Kalender](media/images/img_3.png) | Absprung auf den **[Kalender](calendar.md)**. |
+| ![Schaltfläche: Taufe anlegen](media/images/img_4.png) | [Anlegen einer **Taufe**](baptisms.create.md). **Hinweis**: Beim **Anlegen einer Taufe** über die **Konfigurierbare Startseite** ist es möglich, das **Datum** freizulassen. Auf diese Art kann eine **Taufanfrage** angelegt werden. Das **Datum** muss dann **später nachgepflegt** werden, womit aus der **Taufanfrage** eine **Taufe** wird. |
+| ![Schaltfläche: Beerdigung anlegen](media/images/img_5.png) | [Anlegen einer **Beerdigung**](funerals.create.md). |
+| ![Schaltfläche: Trauung anlegen](media/images/img_6.png) | [Anlegen einer **Trauung**](weddings.create.md) |
 
-Die 3 **Schaltflächen** zum Anlegen von **Kasualien** (**Taufe**, **Beerdigung**, **Trauung**) werden nur angezeigt, wenn im [**Benutzerprofil**](/manual/user.profile.md) (1) im Bereich "**Startbildschirm**" (2) die Option "Schaltflächen für das schnelle Erstellen von Kasualien anzeigen" (3) aktiviert ist.
+Die 3 **Schaltflächen** zum Anlegen von **Kasualien** (**Taufe**, **Beerdigung**, **Trauung**) werden nur angezeigt, wenn im [**Benutzerprofil**](user.profile.md) (1) im Bereich "**Startbildschirm**" (2) die Option "Schaltflächen für das schnelle Erstellen von Kasualien anzeigen" (3) aktiviert ist.
 
 ![Benutzerprofil: Option zur Anzeige der Kasualienschaltflächen auf der Konfigurierbaren Startseite](media/images/img_7.png)
 
 ## Reiter
 
-Benutzer:in kann durch Klicken auf die Schaltfläche "Anzeige" (1) oder über die Funktion [Eigenes Profil](/manual/user.profile.md) (2) einstellen, welche Reiter und welche Schaltflächen angezeigt werden.
+Benutzer:in kann durch Klicken auf die Schaltfläche "Anzeige" (1) oder über die Funktion [Eigenes Profil](user.profile.md) (2) einstellen, welche Reiter und welche Schaltflächen angezeigt werden.
 ![Anleitung: Inhalte der Konfigurierbaren Startseite einstellen](media/images/img_1.png)
 
 Folgende Reiter stehen zur Verfügung:
 
 ### Nächste Gottesdienste
 **Nächste Gottesdienste** zeigt Übersichtsinformationen zu allen **Gottesdiensten** während der nächsten 2 Monate an **Gottesdienstorten**, die dem **Benutzerstamm** der/s angemeldeten Benutzer:in zugeordnet sind.
-Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, ob hier **alle Gottesdienste** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Nächste Gottesdienste" oder "Meine Gottesdienste".
+Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, ob hier **alle Gottesdienste** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Nächste Gottesdienste" oder "Meine Gottesdienste".
 
 ![Reiter: Nächste Gottesdienste](media/images/img_8.png)
 
-Im **[Benutzerprofil](/manual/user.profile.md)** kann ausgewählt werden, ob hier nur **Gottesdienste** erscheinen, bei denen der/die **Benutzer:in** als **Beteiligte:r** aufgeführt ist, oder ob alle **Gottesdienste** der zugeordneten **Gottesdienstorte** angezeigt werden sollen.
+Im **[Benutzerprofil](user.profile.md)** kann ausgewählt werden, ob hier nur **Gottesdienste** erscheinen, bei denen der/die **Benutzer:in** als **Beteiligte:r** aufgeführt ist, oder ob alle **Gottesdienste** der zugeordneten **Gottesdienstorte** angezeigt werden sollen.
 
 ### Nächste Gottesdienste (mit Opferzweck)
 **Nächste Gottesdienste mit Opferzweck** zeigt Übersichtsinformationen incl. des **Opferzwecks** zu allen **Gottesdiensten** während der nächsten 2 Monate in Gottesdienstorten, die dem **Benutzerstamm** der/s angemeldeten **Benutzer:in** zugeordnet sind.
 
 ### Taufen
-Der Reiter **Taufen** zeigt Übersichtsinformationen zu allen zukünftigen **Taufen**, sowie zu offenen **Taufanfragen** an. **Taufanfragen** sind **Taufen**, die noch keinem Gottesdienst zugeordnet wurden. Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, ob hier **alle Taufen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Taufen" oder "Meine Taufen".
+Der Reiter **Taufen** zeigt Übersichtsinformationen zu allen zukünftigen **Taufen**, sowie zu offenen **Taufanfragen** an. **Taufanfragen** sind **Taufen**, die noch keinem Gottesdienst zugeordnet wurden. Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, ob hier **alle Taufen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Taufen" oder "Meine Taufen".
 
 ![Reiter: Taufen](media/images/img_9.png)
 
-Im **[Benutzerprofil](/manual/user.profile.md)** kann ausgewählt werden, ob hier nur **Taufen** erscheinen, bei denen der/die **Benutzer:in** als **Beteiligte:r** aufgeführt ist, oder ob alle **Gottesdienste** der zugeordneten **Gottesdienstorte** angezeigt werden sollen.
+Im **[Benutzerprofil](user.profile.md)** kann ausgewählt werden, ob hier nur **Taufen** erscheinen, bei denen der/die **Benutzer:in** als **Beteiligte:r** aufgeführt ist, oder ob alle **Gottesdienste** der zugeordneten **Gottesdienstorte** angezeigt werden sollen.
 
 #### Aktionen auf dem Reiter "Taufen"
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Taufe bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten**  der angezeigten **Taufe** oder **Taufanfrage**](/manual/baptisms.edit.md). |
+| ![Schaltfläche: Taufe bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten**  der angezeigten **Taufe** oder **Taufanfrage**](baptisms.edit.md). |
 | ![Schaltfläche: Taufe löschen](media/images/img_11.png) | **Löscht** die angezeigte **Taufe** oder **Taufanfrage**.
 | ![Symbol: Dokument herunterladen](media/images/img_12.png)| Lädt das angegebene **Dokument** herunter. |
 
 ### Beerdigungen
-Der Reiter "Beerdigungen" zeigt Übersichtsinformationen zu allen offenen **Beerdigungen** sowie zu **Beerdigungen** der letzten 2 Wochen. Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, ob hier **alle Beerdigungen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Beerdigungen" oder "Meine Beerdigungen". 
+Der Reiter "Beerdigungen" zeigt Übersichtsinformationen zu allen offenen **Beerdigungen** sowie zu **Beerdigungen** der letzten 2 Wochen. Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, ob hier **alle Beerdigungen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Beerdigungen" oder "Meine Beerdigungen". 
 
 ![Reiter: Beerdigungen](media/images/img_13.png)
 
@@ -70,13 +70,13 @@ Der Reiter "Beerdigungen" zeigt Übersichtsinformationen zu allen offenen **Beer
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Beerdigung bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Beerdigung**](/manual/funerals.edit.md). |
+| ![Schaltfläche: Beerdigung bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Beerdigung**](funerals.edit.md). |
 | ![Schaltfläche: Beerdigung löschen](media/images/img_11.png) | **Löscht** die angezeigte **Beerdigung** oder **Taufanfrage**.
 | ![Symbol: Dokument herunterladen](media/images/img_12.png)| Lädt das angegebene **Dokument** herunter. |
 
 ### Trauungen
 
-Der Reiter "Trauungen" zeigt Übersichtsinformationen zu allen offenen **Trauungen** sowie zu **Trauungen** der letzten 2 Wochen. Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, ob hier **alle Trauungen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Trauungen" oder "Meine Trauungen".
+Der Reiter "Trauungen" zeigt Übersichtsinformationen zu allen offenen **Trauungen** sowie zu **Trauungen** der letzten 2 Wochen. Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, ob hier **alle Trauungen** angezeigt werden, oder nur solche, in denen die/der angemeldete **Benutzer:in** einen Dienst versieht. Je nach Einstellung lautet der Titel des Reiters "Trauungen" oder "Meine Trauungen".
 
 ![Reiter: Trauungen](media/images/img_14.png)
 
@@ -84,7 +84,7 @@ Der Reiter "Trauungen" zeigt Übersichtsinformationen zu allen offenen **Trauung
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Trauung bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Trauung**](/manual/weddings.edit.md). |
+| ![Schaltfläche: Trauung bearbeiten](media/images/img_10.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Trauung**](weddings.edit.md). |
 | ![Schaltfläche: Trauung löschen](media/images/img_11.png) | **Löscht** die angezeigte **Trauung** oder **Taufanfrage**.
 | ![Symbol: Dokument herunterladen](media/images/img_12.png)| Lädt das angegebene **Dokument** herunter. |
 
@@ -99,16 +99,16 @@ Der Reiter "Anmeldungen" zeigt Übersichtsinformationen zu allen offenen **Gotte
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Neue Anmeldung](media/images/img_16.png) | Öffnet die Maske zum [**Anlegen einer Anmeldung** für den angezeigten **Gottesdienst**](/manual/seatfinder.md). |
-| ![Schaltfläche: Anmeldungen](media/images/img_17.png) | Absprung zur [Anzeige der **Anmeldungen** für den angezeigten **Gottesdienst**](/manual/service.bookings.md). |
-| ![Schaltfläche: Anmeldeliste](media/images/img_18.png)| Lädt ein **druckbares PDF-Dokument** mit einer [Liste aller **Anmeldungen** für den angezeigten **Gottesdienst**](/manual/booking.finalize.md) herunter.. |
+| ![Schaltfläche: Neue Anmeldung](media/images/img_16.png) | Öffnet die Maske zum [**Anlegen einer Anmeldung** für den angezeigten **Gottesdienst**](seatfinder.md). |
+| ![Schaltfläche: Anmeldungen](media/images/img_17.png) | Absprung zur [Anzeige der **Anmeldungen** für den angezeigten **Gottesdienst**](service.bookings.md). |
+| ![Schaltfläche: Anmeldeliste](media/images/img_18.png)| Lädt ein **druckbares PDF-Dokument** mit einer [Liste aller **Anmeldungen** für den angezeigten **Gottesdienst**](booking.finalize.md) herunter.. |
 
 
 ### Kasualien
 
 ![Reiter: Kasualien](media/images/img_19.png)
 
-Ein Reiter des Typs "Kasualien" zeigt Übersichtsinformationen zu allen **Kasualien** (**Taufen**, **Trauungen** und **Taufen**) in ausgewählten Kirchengemeinden. Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, **welche Kirchengemeinden** angezeigt werden und welchen **Titel** der Reiter tragen soll.
+Ein Reiter des Typs "Kasualien" zeigt Übersichtsinformationen zu allen **Kasualien** (**Taufen**, **Trauungen** und **Taufen**) in ausgewählten Kirchengemeinden. Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, **welche Kirchengemeinden** angezeigt werden und welchen **Titel** der Reiter tragen soll.
 
 Die Anzeige erfolgt in der **Reihenfolge** **Beerdigungen**, **Trauungen** und **Taufen**. Die jeweils **angezeigten Informationen**,  sowie die verfügbaren **Aktionen** entsprechen der Anzeige in den Reitern "**Beerdigungen**", "**Trauungen**" und "**Taufen**".
 
@@ -116,7 +116,7 @@ Die Anzeige erfolgt in der **Reihenfolge** **Beerdigungen**, **Trauungen** und *
 
 Der Reiter "Streaming" zeigt Übersichtsinformationen zu allen **Gottesdiensten** der nächsten 2 Monate an ausgewählten **Gottesdienstorten**. 
 Die dargestellten Informationen beziehen sich auf die **Übertragung von Gottesdiensten per Livestream**.
-Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, welche **Gottesdienstorte** berücksichtigt werden.
+Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, welche **Gottesdienstorte** berücksichtigt werden.
 
 ![Reiter: Streaming](media/images/img_21.png)
 
@@ -131,7 +131,7 @@ Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, welche 
 ### Fehlende Einträge
 
 Der Reiter "Fehlende Einträge" zeigt Übersichtsinformationen zu allen offenen **Gottesdiensten** an **Gottesdienstorten**, die dem Benutzerstamm der/s angemeldeten Benutzer:in zugeordnet sind, bei denen die **Einteilung bestimmter Dienste** noch fehlt. 
-Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, welche **Dienste** dabei berücksichtigt werden.
+Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, welche **Dienste** dabei berücksichtigt werden.
 
 ![Reiter: Fehlende Einträge](media/images/img_24.png)
 
@@ -139,7 +139,7 @@ Im [**Benutzerprofil**](/manual/user.profile.md) kann festgelegt werden, welche 
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Gottesdienst bearbeiten](media/images/img_25.png) | Öffnet die Maske zum [**Bearbeiten** des angezeigten **Gottesdiensts**](/manual/services.edit.md).
+| ![Schaltfläche: Gottesdienst bearbeiten](media/images/img_25.png) | Öffnet die Maske zum [**Bearbeiten** des angezeigten **Gottesdiensts**](services.edit.md).
 
 
 ### Mein Urlaub
@@ -152,8 +152,8 @@ Der Reiter "Mein Urlaub" zeigt Abwesenheitszeiten und Vertreter:innen des/der an
 
 | Schaltfläche | Funktion |
 | --- | --- |
-| ![Schaltfläche: Urlaubskalender öffnen](media/images/img_27.png) | Absprung zum [**Urlaubskalender**](/manual/absences.index.md).
-| ![Schaltfläche: Abwesenheit bearbeiten](media/images/img_25.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Abwesenheit**](/manual/absences.edit.md).
+| ![Schaltfläche: Urlaubskalender öffnen](media/images/img_27.png) | Absprung zum [**Urlaubskalender**](absences.index.md).
+| ![Schaltfläche: Abwesenheit bearbeiten](media/images/img_25.png) | Öffnet die Maske zum [**Bearbeiten** der angezeigten **Abwesenheit**](absences.edit.md).
 
 
 
