@@ -125,6 +125,7 @@ Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, welche **Gottes
 | Schaltfläche | Funktion |
 | --- | --- |
 | ![Schaltfläche: YouTube Video](media/images/img_22.png) | Öffnet das **YouTube-Video** zum angezeigten **Gottesdienst** in einem neuen Fenster.
+| ![Schaltfläche: Live Dashboard](media/images/img_28.png) | Öffnet das **Livestreaming Dashboard** zum **YouTube-Video**  des angezeigten **Gottesdiensts** in einem neuen Fenster.
 | ![Schaltfläche: Informationen auf YouTube aktualisieren](media/images/img_23.png) | Aktualisiert die Beschreibung des **Videos** zum **Gottesdienst** auf **YouTube**. |
 | ![Schaltfläche: Stream löschen](media/images/img_11.png)| Löscht den **Livestream auf YouTube**, der dem angezeigten **Gottesdienst** zugeordnet ist. |
 
