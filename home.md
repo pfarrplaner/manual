@@ -118,15 +118,17 @@ Der Reiter "Streaming" zeigt Übersichtsinformationen zu allen **Gottesdiensten*
 Die dargestellten Informationen beziehen sich auf die **Übertragung von Gottesdiensten per Livestream**.
 Im [**Benutzerprofil**](user.profile.md) kann festgelegt werden, welche **Gottesdienstorte** berücksichtigt werden.
 
-![Reiter: Streaming](media/images/img_21.png)
+![Reiter: Streaming](media/images/img_29.png)
 
 #### Aktionen auf dem Reiter "Streaming"
 
 | Schaltfläche | Funktion |
 | --- | --- |
 | ![Schaltfläche: YouTube Video](media/images/img_22.png) | Öffnet das **YouTube-Video** zum angezeigten **Gottesdienst** in einem neuen Fenster.
+| ![Schaltfläche: Live Dashboard](media/images/img_28.png) | Öffnet das **Livestreaming Dashboard** zum **YouTube-Video**  des angezeigten **Gottesdiensts** in einem neuen Fenster.
 | ![Schaltfläche: Informationen auf YouTube aktualisieren](media/images/img_23.png) | Aktualisiert die Beschreibung des **Videos** zum **Gottesdienst** auf **YouTube**. |
 | ![Schaltfläche: Stream löschen](media/images/img_11.png)| Löscht den **Livestream auf YouTube**, der dem angezeigten **Gottesdienst** zugeordnet ist. |
+|![Schaltfläche: Livestream anlegen](media/images/img_30.png)| Legt einen neuen **Livestream** auf **YouTube** für den angezeigten **Gottesdienst** an.|
 
 ### Fehlende Einträge
 
