@@ -17,7 +17,7 @@ Folgende Schaltflächen sind verfügbar:
 | ![Schaltfläche: Gehe zu heute](media/images/img_33.png) | Zeigt den **aktuellen Monat** an. |
 | ![Schaltfläche: Monat und Jahr wählen](media/images/img_34.png) | Durch Klick auf das angezeigte Datum öffnet sich ein **Auswahlfeld für Monat und Jahr**. Der anzuzeigende Monat kann dort als Datum im Format *JJJJ-MM* eingegeben werden. Alternativ dazu können Jahr und Monat per Klick ausgewählt werden. ![Schaltfläche: Monat und Jahr wählen](media/images/img_37.png) |
 | ![Schaltfläche: Einen Monat vor](media/images/img_35.png) | Zeigt den **nachfolgenden Monat** an. |
-| ![Schaltfläche: Als Dokument öffnen](media/images/img_36.png) | Öffnet den **Amtskalender** für den angezeigten Monat als **Microsoft Word-Dokument**. |
+| ![Schaltfläche: Als Dokument öffnen](media/images/img_36.png) | Öffnet den **Amtskalender** für den angezeigten Monat als **Microsoft Word-Dokument**. ([siehe unten](#als-worddokument-exportieren)) |
 
 ## Arbeitsfläche
 
@@ -95,3 +95,16 @@ Folgende Stichwörter werden aktuell erkannt:
 | Seelsorge, Diakonie | Trauergespräch, Geburtstagsbesuch, Besuch, Traugespräch, Taufgespräch, Ehejubiläum |
 | Unterricht, Jugendarbeit | RU, KU, Konfi, Konfi... |
 | Mitarbeiterschaft, Gremien, Dienstbesprechung | KGR, Sitzung, Planung, Beirat, Ausschuss, DB, Dienstbesprechung |
+
+## Als Worddokument exportieren
+
+Beim Klick auf die Schaltfläche **"Als Dokument öffnen"** öffnet sich zunächst ein Dialogfenster, in dem einige Einstellungen für den **Export nach Microsoft Word** getroffen werden können.
+
+![Dialogfenster: Einstellungen für den Export nach Microsoft Word](media/images/img_47.png)
+
+Folgende Einstellungen stehen zur Verfügung
+
+| Einstellung | Erklärung |
+| ----------- | --------- |
+| Erste Seitennummer | Wenn dieses Eingabefeld nicht leer bleibt, enthält das ausgegebene Dokument Seitennummern. Hier kann eingegeben werden, ab welcher Seitenzahl diese gezählt werden sollen. |
+| Seitenzahlen abwechselnd links und recht | Wenn dieses Kästchen aktiviert ist, werden gerade Seitenzahlen linksbündig und ungerade Seitenzahlen rechtsbündig ausgegeben. Das ist der Standard bei der offiziellen Amtskalender-Datei und eignet sich besonders für den doppelseitigen Druck. Ist das Kästchen nicht angekreuzt, stehen alle Seitenzahlen rechtsbündig. Diese Einstellung ist besonders für den einseitigen Druck geeignet. |
